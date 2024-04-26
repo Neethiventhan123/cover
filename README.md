@@ -148,7 +148,8 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![Uploading image.png…]()
+![image](https://github.com/Neethiventhan123/cover/assets/148514848/41dee698-b1f7-47b2-98aa-781b415fa98e)
+
 
 
 
